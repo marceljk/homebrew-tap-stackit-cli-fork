@@ -6,7 +6,7 @@ class Stackit < Formula
   desc "Demo: A command-line interface to manage STACKIT resources.
 This CLI is in a beta state. More services and functionality will be supported soon."
   homepage "https://github.com/stackitcloud/stackit-cli"
-  version "0.34.6"
+  version "0.37.0"
   license "Apache-2.0"
   disable! date: "2026-01-22", because: "the cask should be used now instead", replacement_cask: "stackit"
 
